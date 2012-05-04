@@ -1,0 +1,25 @@
+.metadata
+tmp/**
+.DS_Store
+*.tmp
+*.bak
+tmp/**/*
+*.swp
+*~.nib
+Thumbs.db
+Desktop.ini
+*~
+*.apk
+*.ap_
+*.dex
+*.class
+bin
+gen
+local.properties
+
+# Eclipse
+.settings
+.metadata
+Servers
+bin
+target
